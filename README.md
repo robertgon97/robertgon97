@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hola a todos! 👋
+
+## Skills
+- Backend Developer
+- Frontend Developer
+- DevOps
+
 
 <!--
 **robertgon97/robertgon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
